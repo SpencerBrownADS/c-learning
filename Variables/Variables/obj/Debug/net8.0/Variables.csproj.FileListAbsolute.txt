@@ -1,0 +1,14 @@
+C:\Users\twitt\OneDrive\Desktop\Coding Files\cs11dotnet7\Chapter02\Variables\Variables\obj\Debug\net8.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\twitt\OneDrive\Desktop\Coding Files\cs11dotnet7\Chapter02\Variables\Variables\obj\Debug\net8.0\Variables.AssemblyInfoInputs.cache
+C:\Users\twitt\OneDrive\Desktop\Coding Files\cs11dotnet7\Chapter02\Variables\Variables\obj\Debug\net8.0\Variables.AssemblyInfo.cs
+C:\Users\twitt\OneDrive\Desktop\Coding Files\cs11dotnet7\Chapter02\Variables\Variables\obj\Debug\net8.0\Variables.csproj.CoreCompileInputs.cache
+C:\Users\twitt\OneDrive\Desktop\Coding Files\cs11dotnet7\Chapter02\Variables\Variables\bin\Debug\net8.0\Variables.exe
+C:\Users\twitt\OneDrive\Desktop\Coding Files\cs11dotnet7\Chapter02\Variables\Variables\bin\Debug\net8.0\Variables.deps.json
+C:\Users\twitt\OneDrive\Desktop\Coding Files\cs11dotnet7\Chapter02\Variables\Variables\bin\Debug\net8.0\Variables.runtimeconfig.json
+C:\Users\twitt\OneDrive\Desktop\Coding Files\cs11dotnet7\Chapter02\Variables\Variables\bin\Debug\net8.0\Variables.dll
+C:\Users\twitt\OneDrive\Desktop\Coding Files\cs11dotnet7\Chapter02\Variables\Variables\bin\Debug\net8.0\Variables.pdb
+C:\Users\twitt\OneDrive\Desktop\Coding Files\cs11dotnet7\Chapter02\Variables\Variables\obj\Debug\net8.0\Variables.dll
+C:\Users\twitt\OneDrive\Desktop\Coding Files\cs11dotnet7\Chapter02\Variables\Variables\obj\Debug\net8.0\refint\Variables.dll
+C:\Users\twitt\OneDrive\Desktop\Coding Files\cs11dotnet7\Chapter02\Variables\Variables\obj\Debug\net8.0\Variables.pdb
+C:\Users\twitt\OneDrive\Desktop\Coding Files\cs11dotnet7\Chapter02\Variables\Variables\obj\Debug\net8.0\Variables.genruntimeconfig.cache
+C:\Users\twitt\OneDrive\Desktop\Coding Files\cs11dotnet7\Chapter02\Variables\Variables\obj\Debug\net8.0\ref\Variables.dll
